@@ -35,27 +35,31 @@ export function ProjectHero({
     }
 
     const ctx = gsap.context(() => {
-      gsap.fromTo(
-        media,
-        { yPercent: -14 },
-        {
-          yPercent: 14,
-          ease: "none",
-          scrollTrigger: {
-            trigger: root,
-            start: "top top",
-            end: "bottom top",
-            scrub: true,
+      const desktop = window.matchMedia("(min-width: 640px)").matches;
+
+      if (desktop) {
+        gsap.fromTo(
+          media,
+          { yPercent: -14 },
+          {
+            yPercent: 14,
+            ease: "none",
+            scrollTrigger: {
+              trigger: root,
+              start: "top top",
+              end: "bottom top",
+              scrub: true,
+            },
           },
-        },
-      );
+        );
+      }
 
       if (copy) {
         gsap.fromTo(
           copy,
           { y: 0 },
           {
-            y: 96,
+            y: desktop ? 96 : 40,
             ease: "none",
             scrollTrigger: {
               trigger: root,
@@ -74,14 +78,14 @@ export function ProjectHero({
   return (
     <section
       ref={rootRef}
-      className="relative isolate h-[min(78vh,56rem)] overflow-hidden bg-background sm:h-[min(92vh,56rem)]"
+      className="relative isolate h-[min(78vh,56rem)] overflow-hidden bg-ink sm:h-[min(92vh,56rem)]"
       data-scroll-theme-light="theme-cream"
       data-scroll-theme-dark="theme-cream"
       data-nav-on="dark"
     >
       <div
         ref={mediaRef}
-        className="absolute inset-x-0 -top-[14%] z-10 h-[128%] w-full will-change-transform"
+        className="absolute inset-0 z-10 w-full sm:-top-[14%] sm:h-[128%] sm:will-change-transform"
       >
         {cover ? (
           <Image
@@ -90,7 +94,7 @@ export function ProjectHero({
             fill
             priority
             sizes="100vw"
-            className="object-cover"
+            className="object-contain object-center sm:object-cover"
           />
         ) : (
           <div className="h-full w-full bg-surface" />
