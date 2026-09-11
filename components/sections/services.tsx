@@ -133,7 +133,7 @@ export function Services() {
         <ProgressSlider
           vertical={isDesktop}
           fastDuration={300}
-          duration={4000}
+          duration={7000}
           activeSlider="concrete-plant"
           className="flex flex-col-reverse overflow-hidden rounded-2xl bg-background sm:h-[min(72vh,46rem)] sm:flex-row"
         >
