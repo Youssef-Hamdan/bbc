@@ -78,7 +78,7 @@ export function ProjectHero({
   return (
     <section
       ref={rootRef}
-      className="relative isolate h-[min(78vh,56rem)] overflow-hidden bg-ink sm:h-[min(92vh,56rem)]"
+      className="relative isolate h-[24rem] overflow-hidden bg-ink sm:h-[min(92vh,56rem)]"
       data-scroll-theme-light="theme-cream"
       data-scroll-theme-dark="theme-cream"
       data-nav-on="dark"
@@ -94,31 +94,31 @@ export function ProjectHero({
             fill
             priority
             sizes="100vw"
-            className="object-contain object-center sm:object-cover"
+            className="object-cover object-center"
           />
         ) : (
           <div className="h-full w-full bg-surface" />
         )}
       </div>
 
-      <div className="pointer-events-none absolute inset-0 z-20 bg-gradient-to-t from-ink via-ink/25 to-transparent" />
+      <div className="pointer-events-none absolute inset-0 z-20 bg-gradient-to-t from-ink via-ink/45 to-transparent" />
       <div
         ref={copyRef}
-        className="absolute inset-x-0 bottom-0 z-30 page-gutter pb-8 will-change-transform sm:pb-14"
+        className="absolute inset-x-0 bottom-0 z-30 page-gutter pb-6 will-change-transform sm:pb-14"
       >
         <div className="mx-auto max-w-7xl">
-          <p className="text-[11px] uppercase tracking-[0.32em] text-cream/70">
+          <p className="text-[10px] uppercase tracking-[0.32em] text-cream/70 sm:text-[11px]">
             {typeLabel}
           </p>
-          <h1 className="mt-3 max-w-6xl text-pretty break-words font-serif text-[2.35rem] leading-[0.95] tracking-tight text-cream sm:text-7xl lg:text-8xl xl:text-9xl">
+          <h1 className="mt-2 max-w-6xl text-pretty break-words font-serif text-[1.7rem] leading-[1.08] tracking-tight text-cream sm:mt-3 sm:text-7xl sm:leading-[0.95] lg:text-8xl xl:text-9xl">
             {name}
           </h1>
           {heroMeta ? (
-            <p className="mt-4 max-w-2xl text-sm leading-6 text-cream/75">
+            <p className="mt-2.5 max-w-2xl text-[13px] leading-5 text-cream/75 sm:mt-4 sm:text-sm sm:leading-6">
               {heroMeta}
             </p>
           ) : summary ? (
-            <p className="mt-4 max-w-2xl text-sm leading-6 text-cream/75">
+            <p className="mt-2.5 max-w-2xl text-[13px] leading-5 text-cream/75 sm:mt-4 sm:text-sm sm:leading-6">
               {summary}
             </p>
           ) : null}
