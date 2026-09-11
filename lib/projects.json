@@ -1,0 +1,728 @@
+{
+  "projects": [
+    {
+      "id": "ministere-agriculture",
+      "slug": "ministere-de-l-agriculture-rdc",
+      "title": "Ministère de l'Agriculture RDC",
+      "categorySlug": "batiments-administratifs",
+      "summary": "Construction Bâtiment Administratif R+5.",
+      "details": {
+        "client": "Ministère Agriculture",
+        "location": "Av. BATATELA N° PC5565, Gombe Kinshasa-RDC",
+        "year": "2020",
+        "duration": "16 Mois"
+      },
+      "content": {
+        "overview": "Construction d'un immeuble moderne de 5 étages (R+5) pour abriter les bureaux du Ministère de l'Agriculture.",
+        "scope": ["Fondations", "Structure en béton armé", "Second œuvre complet", "Aménagements extérieurs"],
+        "challenges": "Coordination avec les services publics et gestion administrative complexe.",
+        "solution": "Mise en place d'une cellule de coordination dédiée pour assurer la fluidité des échanges.",
+        "results": ["Un bâtiment fonctionnel et moderne au service de l’État."]
+      },
+      "images": {
+        "thumbnail": "project-1-1.jpg",
+        "heroImage": "project-1-1.jpg",
+        "gallery": ["project-1-1.jpg", "project-1-2.jpg"]
+      }
+    },
+    {
+      "id": "infinity-center",
+      "slug": "infinity-center",
+      "title": "Infinity Center",
+      "categorySlug": "batiments-administratifs",
+      "summary": "Construction d'un ouvrage de génie civil de 2 sous-sols + R+7 avec une zone de stationnement en béton, à la 24 Novembre / Gombe – Kinshasa.",
+      "details": {
+        "client": "SIMMOKIN",
+        "location": "Av. 24 Novembre, Commune de la Gombe – Kinshasa"
+      },
+      "content": {
+        "overview": "Construction d'un ouvrage de Génie civil de 2 sous-sols + R+7 avec une zone de stationnement en béton, incluant les réseaux et ouvrages d’assainissement du site.",
+        "scope": [
+          "Construction de l'ouvrage principal : 2 sous-sols + R+7",
+          "Réalisation de la zone de stationnement en béton",
+          "Électrification, assainissement et adduction en eau du site",
+          "Réalisation de la fosse septique"
+        ],
+        "challenges": "Travaux réalisés en milieu urbain dense avec gestion des réseaux existants et des accès au site.",
+        "solution": "Phasage précis des travaux, coordination avec les services urbains et maîtrise des méthodes de construction pour limiter l’impact sur l’environnement immédiat.",
+        "results": [
+          "Ouvrage de Génie civil conforme aux normes en vigueur",
+          "Site entièrement viabilisé (eau, électricité, assainissement)",
+          "Capacité de stationnement optimisée grâce au parking en béton"
+        ]
+      },
+      "images": {
+        "thumbnail": "project-6-1.jpg",
+        "heroImage": "project-6-1.jpg",
+        "gallery": ["project-6-1.jpg", "project-6-2.jpg"]
+      }
+    },
+    {
+      "id": "batiment-elcom-r-plus-3",
+      "slug": "batiment-elcom-r-plus-3",
+      "title": "Bâtiment ELICOM R+3",
+      "categorySlug": "batiments-commerciaux",
+      "summary": "Travaux de construction d'un immeuble R+ Mezzanine +3 administratif d’une superficie d’environ 1 000 m² par lot.",
+      "details": {
+        "client": "Société ELICOM",
+        "location": "Av. Flambeau, Kinshasa - Gombe",
+        "year": "2021–2023",
+        "duration": "18 Janvier 2021 – 13 Août 2023",
+        "surface": "1 000 m² / lot"
+      },
+      "content": {
+        "overview": "Construction d'un immeuble R+ Mezzanine +3 à usage administratif pour une superficie d’environ 1 000 m² par lot.",
+        "scope": ["Radier", "Terrassement plateforme", "Structure en béton armé", "Travaux de maçonnerie", "VRD", "Électrification, assainissement et adduction en eau du site", "Réalisation de la fosse septique"],
+        "challenges": "Coordination des nombreux lots techniques sur un site urbain en activité.",
+        "solution": "Planification détaillée, phasage des travaux et coordination étroite avec le client pour limiter les perturbations.",
+        "results": ["Immeuble administratif R+3 livré avec une qualité de finition maîtrisée", "Site entièrement viabilisé (VRD, assainissement, électricité, eau)"]
+      },
+      "images": {
+        "thumbnail": "project-2-1.jpg",
+        "heroImage": "project-2-1.jpg",
+        "gallery": ["project-2-1.jpg", "project-2-2.jpg"]
+      }
+    },
+    {
+      "id": "show-room-afromosia",
+      "slug": "show-room-afromosia-15eme-limete",
+      "title": "Show Room Afromosia 15ème Limete",
+      "categorySlug": "batiments-commerciaux",
+      "summary": "Show Room Afromosia 15ème Limete – construction d’un magasin show room de 1 500 m² de surface.",
+      "details": {
+        "client": "Style de vie",
+        "location": "N°2, Avenue des Poids Lourds, Quartier Ndanu, C/ Limete – Kinshasa, RD Congo",
+        "surface": "1 500 m²"
+      },
+      "content": {
+        "overview": "Construction d’un magasin Show Room Afromosia de 1 500 m² de surface, destiné à l’exposition et à la vente de produits de finition.",
+        "scope": ["Extérieure façade en Aluminium Composite Panel (ACP)", "Façade vitrée avec cadres en acier métalliques", "Salle d’exposition avec faux plafond démontable", "Installation complète de la climatisation"],
+        "challenges": "Garantir une façade très vitrée et une grande surface d’exposition tout en assurant confort et sécurité.",
+        "solution": "Mise en œuvre de façades ACP + vitrage et dimensionnement des installations CVC pour un espace commercial très fréquenté.",
+        "results": ["Show room moderne et attractif de 1 500 m²", "Confort intérieur assuré par la climatisation et le faux plafond démontable", "Mise en valeur optimale des produits exposés"]
+      },
+      "images": {
+        "thumbnail": "project-7-1.jpg",
+        "heroImage": "project-7-1.jpg",
+        "gallery": ["project-7-1.jpg"]
+      }
+    },
+    {
+      "id": "kinshasa-mall",
+      "slug": "kinshasa-mall",
+      "title": "Kinshasa Mall",
+      "categorySlug": "batiments-commerciaux",
+      "summary": "Construction d’un centre commercial de grande envergure à Kinshasa.",
+      "details": {
+        "client": "Rakeen",
+        "location": "Av. 24 Novembre, C/ Gombe – Kinshasa",
+        "surface": "31 690 m²"
+      },
+      "content": {
+        "overview": "Kinshasa Mall est un centre commercial R+4 comprenant des surfaces de vente, de restauration et de services, pour une superficie totale d’environ 31 690 m².",
+        "scope": ["Terrassement plateforme", "Structure en béton armé", "Travaux de maçonnerie et VRD", "Électrification, assainissement et adduction en eau du site", "Réalisation de la fosse septique"],
+        "challenges": "Gestion des flux importants de visiteurs et intégration des normes de sécurité incendie.",
+        "solution": "Conception optimisée des circulations, compartimentage et mise en place de systèmes de sécurité et de désenfumage performants.",
+        "results": ["Centre commercial de référence à Kinshasa", "Flux de visiteurs optimisé grâce aux circulations étudiées"]
+      },
+      "images": {
+        "thumbnail": "project-8-1.webp",
+        "heroImage": "project-8-1.webp",
+        "gallery": ["project-8-1.webp", "project-8-2.jpg", "project-8-3.jpg"]
+      }
+    },
+    {
+      "id": "empire-galerie",
+      "slug": "empire-galerie",
+      "title": "Galerie L’Empire",
+      "categorySlug": "batiments-commerciaux",
+      "summary": "Galerie commerciale L’Empire – centre commercial et show room R+3 sur environ 1 333 m².",
+      "details": {
+        "client": "Style de vie",
+        "location": "Av. Libération (ex 24 Novembre) N°25 – 24 Novembre, Kinshasa Gombe",
+        "surface": "1 333 m²"
+      },
+      "content": {
+        "overview": "Travaux de construction d’un centre commercial – show room R+3 d’une superficie totale de 1 333 m².",
+        "scope": ["Structure en béton armé", "Façades largement vitrées", "Aménagements intérieurs des espaces commerciaux", "Voiries et accès autour du bâtiment"],
+        "challenges": "Créer une façade attractive sur un axe très fréquenté tout en optimisant les surfaces commerciales.",
+        "solution": "Façades vitrées continues, mise en valeur des angles du bâtiment et organisation flexible des plateaux commerciaux.",
+        "results": ["Galerie marchande attractive et très visible", "Valorisation immobilière du secteur"]
+      },
+      "images": {
+        "thumbnail": "project-28-1.jpg",
+        "heroImage": "project-28-1.jpg",
+        "gallery": ["project-28-1.jpg", "project-28-2.jpg", "project-28-3.jpg", "project-28-4.jpg", "project-28-5.jpg", "project-28-6.jpg", "project-28-7.jpg"]
+      }
+    },
+    {
+      "id": "crown-tower",
+      "slug": "crown-tower",
+      "title": "Crown Tower",
+      "categorySlug": "batiments-commerciaux",
+      "summary": "Immeuble commercial de grande hauteur avec parking à étages et centre commercial.",
+      "details": {
+        "client": "SIMMOKIN",
+        "location": "Av. Batetela, Kinshasa Gombe",
+        "year": "2022",
+        "surface": "10 400 m² (approx.)",
+        "duration": "24 mois"
+      },
+      "content": {
+        "overview": "Travaux de construction d'un centre commercial – immeuble R-2 / R+16 sur 1 040 m², avec installation de 4 ascenseurs pour 18 étages et parking à étages (3 niveaux : 2 en sous-sol et 1 au premier étage).",
+        "scope": ["Gros œuvre fermé et ouvert", "Façades mur-rideau et vitrées", "Finitions intérieures de luxe", "Installations techniques complètes (CVC, électricité, plomberie, sécurité incendie)"],
+        "challenges": "Construction en site urbain dense avec contraintes logistiques majeures et délais serrés.",
+        "solution": "Techniques de construction rapide, planification « Just-In-Time » pour les livraisons et travail en équipes postées.",
+        "results": ["Livraison dans les délais contractuels", "Qualité de finition irréprochable", "Bâtiment emblématique du paysage urbain de Kinshasa"]
+      },
+      "images": {
+        "thumbnail": "project-29-1.jpg",
+        "heroImage": "project-29-1.jpg",
+        "gallery": ["project-29-1.jpg", "project-29-2.jpg", "project-29-3.jpg", "project-29-4.jpg"]
+      }
+    },
+    {
+      "id": "river-tower",
+      "slug": "river-tower",
+      "title": "River Tower",
+      "categorySlug": "batiments-residentiels",
+      "summary": "Appartements de standing avec vue sur le fleuve.",
+      "details": {
+        "client": "River Group",
+        "location": "Kinshasa",
+        "year": "2022",
+        "surface": "8000 m²"
+      },
+      "content": {
+        "overview": "Un complexe résidentiel offrant une vue imprenable sur le fleuve Congo, alliant confort moderne, sécurité et finitions de luxe.",
+        "scope": ["Fondations profondes", "Élévation 15 étages", "Piscine en toiture", "Finitions intérieures complètes"],
+        "challenges": "Proximité de la nappe phréatique du fleuve et sol instable.",
+        "solution": "Cuvelage étanche, système de pompage sophistiqué et fondations sur pieux.",
+        "results": ["Stabilité assurée", "Cadre de vie exceptionnel pour les résidents"]
+      },
+      "images": {
+        "thumbnail": "project-27-1.jpg",
+        "heroImage": "project-27-1.jpg",
+        "gallery": ["project-27-1.jpg", "project-27-2.jpg", "project-27-5.jpg", "project-27-6.jpg", "project-27-8.jpg", "project-27-9.jpg", "project-27-11.jpg", "project-27-12.jpg", "project-27-13.jpg", "project-27-14.jpg", "project-27-15.webp", "project-27-16.jpg", "project-27-17.jpg", "project-27-18.jpg", "project-27-19.jpg"]
+      }
+    },
+    {
+      "id": "complexe-paradise",
+      "slug": "complexe-paradise",
+      "title": "Complexe Paradise",
+      "categorySlug": "batiments-residentiels",
+      "summary": "Complexe résidentiel « Complexe Paradise » – Phases 01 et 02, 16 immeubles R+6 entourés d’espaces verts.",
+      "details": {
+        "client": "SIMOKIN",
+        "location": "Av. 24 Nov, Kinshasa - Gombe"
+      },
+      "content": {
+        "overview": "Complexe Paradise : PHASE 01 et PHASE 02, construction de 16 immeubles R+6 sur l’Avenue 24 Novembre à Kinshasa-Gombe, au cœur d’un environnement paysager.",
+        "scope": ["Construction de 16 immeubles résidentiels R+6", "Réalisation des aménagements paysagers et espaces verts", "Voiries et réseaux divers internes au complexe"],
+        "challenges": "Coordination des travaux sur un ensemble de plusieurs immeubles et phases successives.",
+        "solution": "Planification par phases (01 et 02) et coordination rapprochée entre les équipes de chantier et le maître d’ouvrage.",
+        "results": ["Complexe résidentiel convivial entouré d’espaces verts", "Capacité d’accueil importante grâce aux 16 immeubles R+6"]
+      },
+      "images": {
+        "thumbnail": "project-3-1.jpg",
+        "heroImage": "project-3-1.jpg",
+        "gallery": ["project-3-1.jpg", "project-3-2.jpg"]
+      }
+    },
+    {
+      "id": "projet-emeralde",
+      "slug": "projet-emeralde",
+      "title": "Projet EMERALDE",
+      "categorySlug": "batiments-residentiels",
+      "summary": "Construction d’un immeuble R+5 d’une superficie totale de 1 096 m².",
+      "details": {
+        "client": "Privé",
+        "location": "Av. NGONGO LUTETE N°PC8086, C/Gombe – Kinshasa"
+      },
+      "content": {
+        "overview": "Construction d’un immeuble résidentiel R+5 d’une superficie totale de 1 096 m², avec des prestations de confort et de sécurité adaptées à un cadre urbain.",
+        "scope": ["Toiture", "Piscine", "VRD (Voiries et Réseaux Divers)"],
+        "challenges": "Réalisation d’un immeuble R+5 sur un site urbain contraint tout en maintenant la circulation et les accès voisins.",
+        "solution": "Organisation du chantier par phases et planification précise des approvisionnements pour limiter l’impact sur le voisinage.",
+        "results": ["Immeuble résidentiel R+5 fonctionnel et moderne", "Superficie totale de 1 096 m² exploitée de manière optimale"]
+      },
+      "images": {
+        "thumbnail": "project-4-1.jpg",
+        "heroImage": "project-4-1.jpg",
+        "gallery": ["project-4-1.jpg", "project-4-2.jpg", "project-4-3.jpg"]
+      }
+    },
+    {
+      "id": "residence-r-plus-4",
+      "slug": "residence-r-plus-4",
+      "title": "Projet RÉSIDENCE R+4",
+      "categorySlug": "batiments-residentiels",
+      "summary": "Travaux de construction d'un immeuble R+4 d'une superficie totale de 4 000 m².",
+      "details": {
+        "client": "Privé",
+        "location": "Av. des Armées, Kinshasa - Gombe",
+        "surface": "4 000 m²"
+      },
+      "content": {
+        "overview": "Travaux de construction d'un immeuble résidentiel R+4 d'une superficie totale de 4 000 m², destiné à des appartements familiaux.",
+        "scope": ["Fondations et structure", "Finitions intérieures et extérieures", "Aménagements extérieurs"],
+        "challenges": "Respect des délais dans un environnement urbain dense.",
+        "solution": "Planification détaillée et suivi de chantier rigoureux.",
+        "results": ["Résidence livrée dans les délais avec un bon niveau de finition."]
+      },
+      "images": {
+        "thumbnail": "project-5-1.jpg",
+        "heroImage": "project-5-1.jpg",
+        "gallery": ["project-5-1.jpg", "project-5-2.jpg", "project-5-3.jpg"]
+      }
+    },
+    {
+      "id": "projet-ambassadeur",
+      "slug": "projet-ambassadeur",
+      "title": "PROJET AMBASSADEUR",
+      "categorySlug": "batiments-residentiels",
+      "summary": "Construction d’une résidence R+4 (Résidence 01 R+4).",
+      "details": {
+        "client": "Privé",
+        "location": "Av. Espérance Terre Jaune, Kinkole – Kinshasa"
+      },
+      "content": {
+        "overview": "PROJET AMBASSADEUR : travaux de construction pour les lots suivants, notamment la Résidence 01 R+4.",
+        "scope": ["Construction de la Résidence 01 R+4", "Structure et clos couvert", "Finitions de standing", "Installations techniques complètes"],
+        "challenges": "Répondre aux exigences de qualité et de confort pour un immeuble résidentiel de référence.",
+        "solution": "Mise en œuvre de solutions techniques conformes aux standards internationaux et contrôle qualité renforcé.",
+        "results": ["Résidence R+4 livrée avec un niveau de finition élevé", "Bâtiment adapté aux besoins d’une clientèle exigeante"]
+      },
+      "images": {
+        "thumbnail": "project-15-1.jpg",
+        "heroImage": "project-15-1.jpg",
+        "gallery": ["project-15-1.jpg", "project-15-2.jpg", "project-15-3.jpg"]
+      }
+    },
+    {
+      "id": "projet-atcom-17eme-rue",
+      "slug": "projet-atcom-17eme-rue",
+      "title": "Projet ATCOM 17ème Rue",
+      "categorySlug": "batiments-residentiels",
+      "summary": "Travaux de construction d’un bâtiment résidentiel R+4 d’une superficie totale de 2 000 m².",
+      "details": {
+        "client": "ATCOM",
+        "location": "Kinshasa",
+        "surface": "2 000 m²"
+      },
+      "content": {
+        "overview": "Travaux de construction d'un complexe comprenant un bâtiment résidentiel R+4 d'une superficie totale de 2 000 m².",
+        "scope": ["Gros œuvre en béton", "Finitions intérieures", "Réseaux et équipements techniques"],
+        "challenges": "Organisation du chantier en zone urbaine habitée tout en limitant les nuisances pour le voisinage.",
+        "solution": "Gestion optimisée des accès, de la logistique et du phasage des travaux afin de réduire l’impact sur l’environnement immédiat.",
+        "results": ["Bâtiment résidentiel R+4 livré dans de bonnes conditions d’exploitation", "Confort adéquat pour les occupants grâce aux installations techniques intégrées"]
+      },
+      "images": {
+        "thumbnail": "project-17-1.jpg",
+        "heroImage": "project-17-1.jpg",
+        "gallery": ["project-17-1.jpg", "project-17-2.jpg", "project-17-3.jpg"]
+      }
+    },
+    {
+      "id": "usine-pdi",
+      "slug": "batiment-de-controle-pdi",
+      "title": "Bâtiment de contrôle PDI",
+      "categorySlug": "batiments-industriels",
+      "summary": "Bâtiment de contrôle PDI pour la SNEL, comprenant salles de contrôle, locaux techniques et zones de tests.",
+      "details": {
+        "client": "SNEL",
+        "location": "Inga, Kongo Central – RDC",
+        "surface": "≈ 1 000 m²"
+      },
+      "content": {
+        "overview": "Construction du bâtiment de contrôle PDI dans le cadre du contrat SNEL n°1118, financé par le FIV. Le projet comprend un show room technique d’environ 1 000 m² regroupant les équipements de contrôle et de protection.",
+        "scope": ["Gros œuvre du bâtiment (radier, structure, maçonnerie)", "Aménagement des salles de contrôle et locaux techniques", "Installation des réseaux électriques, climatisation, détection incendie", "Aménagement des abords et accès au site"],
+        "challenges": "Intégration d’équipements techniques sensibles et coordination avec les lots fournisseurs (électricité, contrôle-commande, télécoms).",
+        "solution": "Phasage précis des travaux, réservations anticipées pour les équipements PDI et coordination permanente avec la SNEL.",
+        "results": ["Bâtiment de contrôle fonctionnel et sécurisé", "Conditions d’exploitation optimales pour les équipes techniques"]
+      },
+      "images": {
+        "thumbnail": "project-9-1.jpg",
+        "heroImage": "project-9-1.jpg",
+        "gallery": ["project-9-1.jpg"]
+      }
+    },
+    {
+      "id": "batiments-industriels-gmk",
+      "slug": "projet-gmk-matadi",
+      "title": "Projet GMK Matadi",
+      "categorySlug": "batiments-industriels",
+      "summary": "Travaux de construction du grand marché GMK à Matadi, Kongo Central.",
+      "details": {
+        "client": "GMK",
+        "location": "Matadi, Kongo Central – RDC"
+      },
+      "content": {
+        "overview": "Projet GMK Matadi : construction d’un grand marché moderne au Kongo Central, comprenant plusieurs blocs de bâtiments, dalles sur plusieurs niveaux et zones de circulation pour les usagers et les véhicules.",
+        "scope": ["Terrassement général du site", "Fondations profondes et radiers", "Structure en béton armé sur plusieurs niveaux", "VRD et réseaux (eau, électricité, assainissement)"],
+        "challenges": "Travaux réalisés sur un site en pente avec des contraintes de stabilité et d’accès.",
+        "solution": "Mise en œuvre de solutions de soutènement adaptées et organisation logistique optimisée pour les livraisons et le coulage des grandes dalles.",
+        "results": ["Infrastructure robuste pour un marché de grande capacité", "Prédisposition pour l’accueil de nombreux commerçants et usagers"]
+      },
+      "images": {
+        "thumbnail": "project-10-2.jpg",
+        "heroImage": "project-10-2.jpg",
+        "gallery": ["project-10-2.jpg", "project-10-3.jpg", "project-10-4.jpg", "project-10-5.webp", "project-10-6.webp", "project-10-7.webp", "project-10-8.webp", "project-10-9.webp", "project-10-10.webp", "project-10-11.webp", "project-10-12.webp", "project-10-13.webp"]
+      }
+    },
+    {
+      "id": "hangar-laxman",
+      "slug": "projet-laxman",
+      "title": "Projet LAXMAN",
+      "categorySlug": "hangars",
+      "summary": "Complexe de hangars LAXMAN pour activités logistiques et de stockage.",
+      "details": {
+        "client": "LAXMAN",
+        "location": "Kinshasa",
+        "surface": "5 000 m²"
+      },
+      "content": {
+        "overview": "Construction d’une usine R+3 sur une surface de 5 000 m². Le projet comprend les travaux de terrassement, la structure en béton armé, la maçonnerie et les VRD, ainsi que l’ensemble des réseaux techniques et une zone de stationnement avec dépôt de stockage.",
+        "scope": ["Terrassement de la plateforme", "Structure en béton armé", "Travaux de maçonnerie et VRD", "Électrification, assainissement et adduction en eau du site", "Travaux mécaniques", "Réalisation de la fosse septique", "Zone de stationnement et dépôt de stockage"],
+        "challenges": "Organisation du chantier sur une grande emprise avec de nombreux sous-traitants.",
+        "solution": "Phasage des travaux par hangar et coordination quotidienne avec le maître d’ouvrage.",
+        "results": ["Plateforme logistique opérationnelle", "Capacité de stockage importante sous un même site"]
+      },
+      "images": {
+        "thumbnail": "project-11-1.webp",
+        "heroImage": "project-11-1.webp",
+        "gallery": ["project-11-1.webp", "project-11-2.jpg", "project-11-3.webp", "project-11-4.webp"]
+      }
+    },
+    {
+      "id": "hangar-usine-meubles-r-plus-3",
+      "slug": "usine-fabrication-meubles-r-plus-3",
+      "title": "Usine de fabrication des meubles R+3",
+      "categorySlug": "hangars",
+      "summary": "Construction d’une usine R+3 de fabrication de meubles sur une surface de 5 000 m², incluant zone de stationnement et dépôt de stockage.",
+      "details": {
+        "client": "Style de vie",
+        "location": "Kinshasa",
+        "surface": "5 000 m²"
+      },
+      "content": {
+        "overview": "Usine de fabrication des meubles R+3 réalisée sur une surface de 5 000 m². Le projet comprend les travaux de terrassement, la structure en béton armé, la maçonnerie et les VRD, l’électrification, l’assainissement et l’adduction en eau du site, ainsi que les installations mécaniques, la fosse septique et les aménagements extérieurs avec zone de stationnement et dépôt de stockage.",
+        "scope": ["Terrassement de la plateforme", "Structure en béton armé", "Travaux de maçonnerie et VRD", "Électrification, assainissement et adduction en eau du site", "Travaux mécaniques", "Réalisation de la fosse septique", "Zone de stationnement et dépôt de stockage"],
+        "challenges": "Coordination des différents corps de métiers sur une usine en R+3 tout en maintenant la qualité des ouvrages techniques.",
+        "solution": "Planification détaillée des phases de travaux, suivi rigoureux de l’exécution et coordination permanente avec le client.",
+        "results": ["Usine R+3 entièrement opérationnelle pour la fabrication de meubles", "Infrastructure adaptée aux besoins de production et de stockage du client"]
+      },
+      "images": {
+        "thumbnail": "project-12-1.webp",
+        "heroImage": "project-12-1.webp",
+        "gallery": ["project-12-1.webp", "project-12-2.webp", "project-12-3.webp", "project-12-4.webp"]
+      }
+    },
+    {
+      "id": "hangar-pont-ngabi",
+      "slug": "projet-pont-ngabi",
+      "title": "Projet PONT NGABI",
+      "categorySlug": "hangars",
+      "summary": "Projet PONT NGABI : construction de génie civil comprenant une chape de 3 050 m², 4 dépôts (8 775 m²) et 28 magasins (2 000 m²) à Pont Ngabi – Kinshasa.",
+      "details": {
+        "client": "Privé",
+        "location": "Pont Ngabi – Kinshasa",
+        "surface": "Chape : 3 050 m² • 4 dépôts : 8 775 m² • 28 magasins : 2 000 m²"
+      },
+      "content": {
+        "overview": "Projet PONT NGABI : travaux de construction de génie civil pour une plateforme logistique comprenant une chape de 3 050 m², 4 dépôts d’une superficie totale de 8 775 m² et 28 magasins représentant 2 000 m² de surface commerciale, le tout situé à Pont Ngabi – Kinshasa.",
+        "scope": ["Réalisation de la chape en béton armé (3 050 m²)", "Construction de 4 dépôts d’une superficie totale de 8 775 m²", "Construction de 28 magasins pour une superficie totale de 2 000 m²", "Travaux de génie civil annexes (voiries, accès, réseaux de base)"],
+        "challenges": "Coordonner la réalisation de grandes surfaces de béton et de multiples bâtiments (dépôts et magasins) tout en maintenant la qualité et la planéité des ouvrages.",
+        "solution": "Découpage du chantier par zones, phasage des coules de béton et contrôle régulier des niveaux pour garantir la performance des dalles et des circulations.",
+        "results": ["Plateforme logistique et commerciale fonctionnelle à Pont Ngabi", "Capacité importante de stockage et de vente répartie entre dépôts et magasins"]
+      },
+      "images": {
+        "thumbnail": "project-13-1.jpg",
+        "heroImage": "project-13-1.jpg",
+        "gallery": ["project-13-1.jpg", "project-13-2.jpg", "project-13-3.jpg", "project-13-4.jpg", "project-13-5.jpg", "project-13-6.jpg"]
+      }
+    },
+    {
+      "id": "hangar-ambassadeur",
+      "slug": "projet-ambassadeur-hangars",
+      "title": "Projet AMBASSADEUR (Hangars)",
+      "categorySlug": "hangars",
+      "summary": "Construction de génie civil pour un ensemble d’usines (CCA métal, TMI, Raffinerie, Savon, Margarine, Briques, Safi) avec VRD, voiries et zone de stationnement.",
+      "details": {
+        "client": "Privé",
+        "location": "Av. Espérance Terre Jaune, Kinkole – Kinshasa",
+        "surface": "Usine CCA métal : 7 000 m² + autres unités industrielles"
+      },
+      "content": {
+        "overview": "Construction de génie civil pour les lots suivants : Usine CCA métal (7 000 m²), Usine TMI, VRD, Usine Raffinerie, Usine Savon barre, Usine de margarine, 2 usines de briques, Usine Savon Safi, ainsi que les voiries diverses, travaux de maçonnerie, électrification et une zone de stationnement, sur le site de l’Avenue Espérance Terre Jaune à Kinkole – Kinshasa.",
+        "scope": ["Usine CCA métal : 7 000 m²", "Usine TMI", "Usine de Raffinerie", "Usine de Savon barre", "Usine de margarine", "Deux usines de briques", "Usine Savon Safi", "Travaux de VRD et voiries diverses", "Travaux de maçonnerie", "Électrification du site", "Réalisation d’une zone de stationnement"],
+        "challenges": "Coordonner la réalisation de plusieurs unités industrielles sur un même site tout en assurant la continuité des accès, la qualité des ouvrages et la sécurité du chantier.",
+        "solution": "Découpage du projet par lots (usines, VRD, voiries, réseaux), phasage détaillé des travaux et coordination rapprochée avec le maître d’ouvrage et les différents intervenants techniques.",
+        "results": ["Plateforme industrielle prête à accueillir les différentes unités de production", "Organisation fonctionnelle du site grâce aux VRD, voiries et zone de stationnement"]
+      },
+      "images": {
+        "thumbnail": "project-14-1.jpg",
+        "heroImage": "project-14-1.jpg",
+        "gallery": ["project-14-1.jpg", "project-14-2.jpg", "project-14-3.jpg", "project-14-4.jpg", "project-14-5.jpg", "project-14-6.jpg"]
+      }
+    },
+    {
+      "id": "hangar-atcom-17eme-rue",
+      "slug": "projet-atcom-17eme-rue-hangars",
+      "title": "Projet ATCOM 17ème Rue (Hangars)",
+      "categorySlug": "hangars",
+      "summary": "Travaux de construction d’un complexe de 13 hangars (10 025 m²) avec vestiaires, réservoirs et aménagements extérieurs.",
+      "details": {
+        "client": "ATCOM",
+        "location": "Kinshasa",
+        "surface": "13 hangars – 10 025 m²"
+      },
+      "content": {
+        "overview": "Projet ATCOM 17ème Rue : travaux de construction d’un complexe comprenant 13 hangars d’une surface totale de 10 025 m², des vestiaires, des réservoirs ainsi que des aménagements extérieurs pour l’exploitation logistique du site.",
+        "scope": ["Terrassement et préparation de la plateforme", "Construction de 13 hangars d’une surface totale de 10 025 m²", "Charpente métallique et couverture des hangars", "Réalisation des vestiaires et locaux annexes", "Construction et implantation des réservoirs", "VRD et aménagements extérieurs (voiries, accès, zones de manœuvre)"],
+        "challenges": "Coordonner la construction de 13 hangars et des ouvrages annexes sur un même site tout en maintenant des accès fonctionnels pour les activités environnantes.",
+        "solution": "Organisation du chantier par zones de hangars, phasage des travaux et gestion rigoureuse des accès et des livraisons de matériaux.",
+        "results": ["Complexe de 13 hangars pleinement opérationnel pour les besoins logistiques d’ATCOM", "Site structuré avec vestiaires, réservoirs et aménagements extérieurs adaptés à une forte activité"]
+      },
+      "images": {
+        "thumbnail": "project-16-1.webp",
+        "heroImage": "project-16-1.webp",
+        "gallery": ["project-16-1.webp", "project-16-2.webp", "project-16-3.webp", "project-16-4.jpg"]
+      }
+    },
+    {
+      "id": "fondation-ikolo-tower",
+      "slug": "projet-ikolo-tower",
+      "title": "Projet IKOLO TOWER",
+      "categorySlug": "fondations-profondes",
+      "summary": "Réalisation des travaux de forage de pieux profonds pour la tour IK0LO.",
+      "details": {
+        "location": "Boulevard 30 Juin, Kinshasa – Gombe"
+      },
+      "content": {
+        "overview": "Projet IKOLO TOWER : réalisation des travaux de forage de pieux profonds pour les fondations de la tour.",
+        "scope": ["Études et implantation des pieux", "Forage des pieux profonds", "Bétonnage et contrôles de qualité"],
+        "challenges": "Contraintes géotechniques importantes liées à la profondeur des pieux.",
+        "solution": "Mise en œuvre de foreuses adaptées et contrôle continu des paramètres de forage.",
+        "results": ["Fondations profondes prêtes à recevoir la superstructure."]
+      },
+      "images": {
+        "thumbnail": "project-18-1.jpg",
+        "heroImage": "project-18-1.jpg",
+        "gallery": ["project-18-1.jpg", "project-18-2.jpg", "project-18-3.jpg"]
+      }
+    },
+    {
+      "id": "fondation-programme-100-jours",
+      "slug": "programme-100-jours-chef-etat",
+      "title": "Programme de 100 jours du chef de l’État",
+      "categorySlug": "fondations-profondes",
+      "summary": "Travaux de construction de sauts-de-mouton dans le cadre du Programme de 100 jours du Chef de l’État.",
+      "details": {
+        "client": "Programme de 100 jours du Chef de l’État",
+        "location": "Blvd Lumumba / Liberté – Pascal / Route Mokali – RP Socimat, Kinshasa"
+      },
+      "content": {
+        "overview": "Travaux de construction de sauts-de-mouton comprenant la réalisation de pieux profonds pour plusieurs ouvrages d’art.",
+        "scope": ["Forage de 64 pieux de profondeur 10 m", "Forage de 18 pieux de profondeur 27 m", "Forage de 24 pieux de profondeur 15 m (Ø 800 mm)"],
+        "challenges": "Réalisation de nombreux pieux de grandes profondeurs sur plusieurs sites urbains très circulés.",
+        "solution": "Organisation du chantier par tronçons, planification des forages de nuit et coordination avec les autorités de circulation.",
+        "results": ["Fondations profondes conformes aux exigences des ouvrages de saut-de-mouton"]
+      },
+      "images": {
+        "thumbnail": "project-19-1.jpg",
+        "heroImage": "project-19-1.jpg",
+        "gallery": ["project-19-1.jpg", "project-19-2.jpg"]
+      }
+    },
+    {
+      "id": "divers-projets-pieux-fores",
+      "slug": "divers-projets-pieux-fores",
+      "title": "Divers projets de pieux forés",
+      "categorySlug": "fondations-profondes",
+      "summary": "Travaux spéciaux de forage de pieux profonds et de pose de béton pour plusieurs projets en RDC.",
+      "details": {
+        "client": "Divers",
+        "location": "RDC"
+      },
+      "content": {
+        "overview": "Divers projets de fondations profondes par pieux forés et bétonnage pour bâtiments et ouvrages d’art, réalisés sur différents sites en République Démocratique du Congo.",
+        "scope": ["Etudes d’exécution et implantation des pieux", "Forage de pieux profonds de différents diamètres et profondeurs", "Ferraillage et bétonnage des pieux", "Travaux spéciaux de reprises en sous-œuvre et renforts"],
+        "challenges": "Adapter les méthodes de forage à des contextes géotechniques variés et parfois difficiles.",
+        "solution": "Choix ciblé des outils de forage (tarière, benne, tubage, boue), contrôles géotechniques réguliers et adaptation des modes opératoires à chaque site.",
+        "results": ["Fondations profondes fiables pour plusieurs projets structurants", "Réduction des risques de tassement et amélioration de la durabilité des ouvrages"]
+      },
+      "images": {
+        "thumbnail": "project-20-1.jpg",
+        "heroImage": "project-20-1.jpg",
+        "gallery": ["project-20-1.jpg", "project-20-2.jpg", "project-20-3.jpg", "project-20-4.jpg", "project-20-5.jpg", "project-20-6.jpg", "project-20-7.jpg", "project-20-8.jpg"]
+      }
+    },
+    {
+      "id": "debarcadere-kinkole",
+      "slug": "projet-debarcadere-kinkole",
+      "title": "PROJET DÉBARCADÈRE INTÉGRÉ AU PORT DE PÊCHE DE KINKOLE",
+      "categorySlug": "travaux-maritimes-quais",
+      "summary": "Travaux de construction d’un débarcadère intégré et de ses dépendances au port de pêche de Kinkole.",
+      "details": {
+        "client": "MINISTÈRE DE PÊCHE ET ÉLEVAGE",
+        "location": "Port de pêche de Kinkole – Kinshasa",
+        "surface": "Remblai : 45 000 m³"
+      },
+      "content": {
+        "overview": "Travaux de construction d’un débarcadère intégré et de ses dépendances au port de pêche de Kinkole, incluant les bâtiments, les ouvrages de quai et les aménagements extérieurs.",
+        "scope": ["Remblai : 45 000 m³", "Construction du quai et du canal des pirogues", "Construction du bureau", "Construction de la chambre froide", "Construction du dépôt et hangar de réunion", "Construction de l’ouvrage principal du débarcadère", "Construction du pavillon du marché", "Construction du bloc sanitaire", "Assainissement et stockage d’eau", "Aménagements extérieurs"],
+        "challenges": "Travaux en milieu fluvial avec contraintes de niveau d’eau et de stabilité des remblais.",
+        "solution": "Dimensionnement adapté des remblais et ouvrages de protection, et phasage des travaux en fonction des variations de niveau du fleuve.",
+        "results": ["Débarcadère moderne et fonctionnel pour les activités de pêche", "Amélioration des conditions de travail et de stockage pour les usagers du port"]
+      },
+      "images": {
+        "thumbnail": "project-21-1.jpg",
+        "heroImage": "project-21-1.jpg",
+        "gallery": ["project-21-1.jpg", "project-21-2.jpg", "project-21-3.jpg", "project-21-4.jpg", "project-21-5.jpg", "project-21-6.jpg", "project-21-7.jpg", "project-21-8.jpg", "project-21-9.jpg", "project-21-10.jpg", "project-21-11.jpg"]
+      }
+    },
+    {
+      "id": "chaussee-rigide-et-souple",
+      "slug": "chaussee-rigide-et-souple",
+      "title": "Chaussées Rigides et Souples",
+      "categorySlug": "chaussee-rigide-et-souple",
+      "summary": "Programme de voirie mixte.",
+      "details": {
+        "client": "OVD / OR",
+        "location": "RDC",
+        "year": "2023"
+      },
+      "content": {
+        "overview": "Réalisation de voiries combinant chaussées en béton (rigides) pour les fortes charges et en asphalte (souples).",
+        "scope": ["Terrassements généraux", "Couches de fondation", "Revêtements", "Assainissement"],
+        "challenges": "Trafic intense et pluviométrie élevée.",
+        "solution": "Dimensionnement structurel adapté et choix de matériaux résistants.",
+        "results": ["Amélioration durable de la mobilité", "Réduction des coûts d’entretien"]
+      },
+      "images": {
+        "thumbnail": "project-23-1.jpg",
+        "heroImage": "project-23-1.jpg",
+        "gallery": ["project-23-1.jpg"]
+      }
+    },
+    {
+      "id": "route-marche-zigida",
+      "slug": "amenagement-route-marche-zigida",
+      "title": "Aménagement ROUTE MARCHÉ ZIGIDA",
+      "categorySlug": "chaussee-rigide-et-souple",
+      "summary": "Aménagement de la route du marché Zigida avec terrassement, remblai, caniveaux et chaussée.",
+      "details": {
+        "client": "OVD",
+        "location": "Marché Zigida – Kinshasa"
+      },
+      "content": {
+        "overview": "Travaux publics de réhabilitation de la route du marché Zigida : terrassement, remblai, caniveaux et réalisation de la chaussée.",
+        "scope": ["Travaux publics route : terrassement, remblai, caniveaux, chaussée", "Remblai : 460 m³", "Longueur : 100 m"],
+        "challenges": "Travailler en plein marché avec maintien des accès pour les commerçants et les riverains.",
+        "solution": "Organisation du chantier par tronçons courts et balisage renforcé pour assurer la sécurité.",
+        "results": ["Amélioration de l’accessibilité et des conditions de circulation au marché Zigida."]
+      },
+      "images": {
+        "thumbnail": "project-22-1.jpg",
+        "heroImage": "project-22-1.jpg",
+        "gallery": ["project-22-1.jpg", "project-22-2.jpg"]
+      }
+    },
+    {
+      "id": "avenue-de-la-vallee",
+      "slug": "avenue-de-la-vallee",
+      "title": "Aménagement ROUTE AVENUE DE LA VALLÉE",
+      "categorySlug": "chaussee-rigide-et-souple",
+      "summary": "Réfection complète de l’Avenue de la Vallée en chaussée rigide.",
+      "details": {
+        "client": "Hôtel de Ville",
+        "location": "Avenue de la Vallée – Kinshasa",
+        "year": "2022"
+      },
+      "content": {
+        "overview": "Aménagement de l’Avenue de la Vallée avec réalisation d’une chaussée rigide et des ouvrages d’assainissement.",
+        "scope": ["Route chaussée rigide de longueur de 120 m x 6 m", "Remblai", "Chaussée rigide", "Caniveaux"],
+        "challenges": "Gestion des eaux de ruissellement dans une zone en pente et trafic urbain important.",
+        "solution": "Ouvrages d’assainissement dimensionnés pour les crues décennales et organisation du chantier par demi-chaussées.",
+        "results": ["Accessibilité rétablie et durabilité accrue de la voie."]
+      },
+      "images": {
+        "thumbnail": "project-23-1.jpg",
+        "heroImage": "project-23-1.jpg",
+        "gallery": ["project-23-1.jpg"]
+      }
+    },
+    {
+      "id": "kwamouth",
+      "slug": "kwamouth",
+      "title": "Aménagement ROUTE KWAMOUTH",
+      "categorySlug": "chaussee-rigide-et-souple",
+      "summary": "Travaux d’aménagement de la route Kwamouth avec terrassement, remblai, caniveaux et chaussée.",
+      "details": {
+        "client": "OVD",
+        "location": "Axe Kwamouth – Kinshasa et son environnement",
+        "year": "2021"
+      },
+      "content": {
+        "overview": "Désenclavement de la zone de Kwamouth par l’aménagement et le revêtement de la route principale.",
+        "scope": ["Travaux publics : terrassement, remblai, caniveaux, chaussée", "Remblai : 1 600 m³", "Longueur : 500 m"],
+        "challenges": "Zone partiellement isolée avec logistique difficile et trafic en maintien.",
+        "solution": "Utilisation maximale des matériaux locaux et phasage des travaux pour maintenir un minimum de circulation.",
+        "results": ["Circulation rétablie et sécurisée vers la zone de Kwamouth."]
+      },
+      "images": {
+        "thumbnail": "project-24-1.jpg",
+        "heroImage": "project-24-1.jpg",
+        "gallery": ["project-24-1.jpg", "project-24-2.jpg", "project-24-3.jpg", "project-24-4.jpg", "project-24-5.jpg", "project-24-6.jpg", "project-24-7.jpg", "project-24-8.jpg"]
+      }
+    },
+    {
+      "id": "masikita",
+      "slug": "masikita",
+      "title": "Aménagement ROUTE MASIKITA",
+      "categorySlug": "chaussee-rigide-et-souple",
+      "summary": "Modernisation de la route Masikita avec terrassement, remblai, caniveaux et chaussée.",
+      "details": {
+        "client": "Public",
+        "location": "Quartier Masikita – Kinshasa",
+        "year": "2021"
+      },
+      "content": {
+        "overview": "Aménagement de la route Masikita pour améliorer la circulation et le drainage des eaux.",
+        "scope": ["Travaux publics : terrassement, remblai, caniveaux, chaussée", "Remblai : 4 200 m³", "Longueur : 1,55 km"],
+        "challenges": "Densité de population élevée et présence de nombreux réseaux existants.",
+        "solution": "Travaux par tronçons, coordination avec la SNEL et la REGIDESO, et information régulière des riverains.",
+        "results": ["Cadre de vie amélioré et meilleure évacuation des eaux pluviales."]
+      },
+      "images": {
+        "thumbnail": "project-25-1.jpg",
+        "heroImage": "project-25-1.jpg",
+        "gallery": ["project-25-1.jpg", "project-25-2.jpg", "project-25-3.jpg"]
+      }
+    },
+    {
+      "id": "route-bat",
+      "slug": "amenagement-route-bat",
+      "title": "Aménagement ROUTE B.A.T",
+      "categorySlug": "chaussee-rigide-et-souple",
+      "summary": "Travaux d’aménagement de la route B.A.T avec terrassement, remblai, caniveaux et chaussée.",
+      "details": {
+        "client": "OVD",
+        "location": "Route B.A.T – Pont Chaux, Kingabwa – Kinshasa"
+      },
+      "content": {
+        "overview": "Aménagement de la route B.A.T au niveau du Pont Chaux à Kingabwa, comprenant les travaux de terrassement, remblai, caniveaux et chaussée.",
+        "scope": ["Travaux publics route : terrassement, remblai, caniveaux, chaussée", "Remblai : 3 200 m³"],
+        "challenges": "Intervenir sur un axe très fréquenté en limitant les perturbations du trafic.",
+        "solution": "Planification des travaux en périodes creuses et mise en place de déviations temporaires.",
+        "results": ["Amélioration de la circulation et de la sécurité sur la route B.A.T."]
+      },
+      "images": {
+        "thumbnail": "project-26-1.jpg",
+        "heroImage": "project-26-1.jpg",
+        "gallery": ["project-26-1.jpg", "project-26-2.jpg"]
+      }
+    }
+  ]
+}
